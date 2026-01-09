@@ -168,3 +168,11 @@ Mariana Hoffmann, Gustavo Coelho da Costa e Paula Pelizer
 ## 📄 Licença
 
 Projeto de caráter educacional e demonstrativo, desenvolvido para fins de aprendizado e avaliação técnica.
+<img width="1897" height="908" alt="Capturar" src="https://github.com/user-attachments/assets/c148ca1c-9657-4a35-9154-51fdf0c96d72" />
+<img width="1909" height="908" alt="Capturar05" src="https://github.com/user-attachments/assets/74f65613-5d9c-472c-a7c4-2445ad2fa7ba" />
+<img width="1901" height="891" alt="04" src="https://github.com/user-attachments/assets/7a09a02e-c582-466c-8a1a-ce434aceda47" />
+<img width="1904" height="900" alt="03" src="https://github.com/user-attachments/assets/62d5c48f-4aa0-4609-88a4-0e2796e7bc92" />
+<img width="1905" height="907" alt="02" src="https://github.com/user-attachments/assets/e7f8d9d5-a1aa-4c15-b497-daad8c150396" />
+<img width="1894" height="907" alt="01" src="https://github.com/user-attachments/assets/e02854a0-bf4b-4958-be9b-c7bb903b7ad2" />
+
+

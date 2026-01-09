@@ -168,15 +168,11 @@ Mariana Hoffmann, Gustavo Coelho da Costa e Paula Pelizer
 ## 📄 Licença
 
 Projeto de caráter educacional e demonstrativo, desenvolvido para fins de aprendizado e avaliação técnica.
-<img width="1897" height="908" alt="Capturar" src="https://github.com/user-attachments/assets/c148ca1c-9657-4a35-9154-51fdf0c96d72" />
-<img width="1909" height="908" alt="Capturar05" src="https://github.com/user-attachments/assets/74f65613-5d9c-472c-a7c4-2445ad2fa7ba" />
-<img width="1901" height="891" alt="04" src="https://github.com/user-attachments/assets/7a09a02e-c582-466c-8a1a-ce434aceda47" />
-<img width="1904" height="900" alt="03" src="https://github.com/user-attachments/assets/62d5c48f-4aa0-4609-88a4-0e2796e7bc92" />
-<img width="1905" height="907" alt="02" src="https://github.com/user-attachments/assets/e7f8d9d5-a1aa-4c15-b497-daad8c150396" />
-<img width="1894" height="907" alt="01" src="https://github.com/user-attachments/assets/e02854a0-bf4b-4958-be9b-c7bb903b7ad2" />
+<img width="1897" height="908" alt="Capturar" src="https://github.com/user-attachments/assets/fadc82a6-360a-44ab-ba90-b9de528f4f2e" />
+<img width="1909" height="908" alt="Capturar05" src="https://github.com/user-attachments/assets/e8a5504d-371a-43a5-9957-efc425a77e33" />
+<img width="1901" height="891" alt="04" src="https://github.com/user-attachments/assets/49e4564a-4099-4372-a3ea-ba0a4d29756a" />
+<img width="1904" height="900" alt="03" src="https://github.com/user-attachments/assets/e3128407-ff93-41da-a164-8119d9d81c77" />
+<img width="1905" height="907" alt="02" src="https://github.com/user-attachments/assets/1c204bfc-a511-4673-ba3e-1a6c83ee3194" />
+<img width="1894" height="907" alt="01" src="https://github.com/user-attachments/assets/1a295c69-0edd-426b-ae31-6546d018b4a6" />
 
 
->>>>>>> e855bff83a184483bcafc1fba6528f1de5e7d32a
-=======
-# CacaVerde_Movitalent
->>>>>>> dfdd18b0031d41b0200b557715bef8a4c3f8f4a4
